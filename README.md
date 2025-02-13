@@ -35,7 +35,6 @@ FUSE-Shop/
 │   ├── pd1.jpg
 │   ├── ... (gambar produk lainnya)
 │── README.md               # Dokumentasi proyek
-
 ```
 
 ## Cara Menjalankan
